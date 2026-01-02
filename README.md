@@ -41,6 +41,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - KusionStack https://kusionstack.io/ Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
 - BACK Stack https://backstack.dev/ Build a Developer Platform in seconds: Backstage | Argo CD | Crossplane | Kyverno
 - CNOE https://cnoe.io/ Cloud Native Operational Excellence | CNOE aims at helping platform engineers build their IDP platforms faster and in a more secure way with best practices built in
+- Replane https://github.com/replane-dev/replane Dynamic configuration manager for feature flags, app settings, and operational config with version history, approvals, and realtime sync
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 
